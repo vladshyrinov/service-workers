@@ -1,0 +1,11 @@
+ul > li {
+    font-style: italic;
+}
+
+ul > li:first-child a {
+    color: orange
+}
+
+ul > li:nth-child(2) a {
+    color: green;
+}
